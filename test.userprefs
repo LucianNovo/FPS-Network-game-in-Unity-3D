@@ -1,0 +1,19 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/scripts/NetworkManagerScr.js">
+    <Files>
+      <File FileName="Assets/scripts/characterCollisionDetection.js" Line="11" Column="1" />
+      <File FileName="Assets/scripts/boxmovement.js" Line="1" Column="1" />
+      <File FileName="Assets/scripts/scr_launcher.js" Line="12" Column="3" />
+      <File FileName="Assets/scripts/scr_bullet.js" Line="6" Column="2" />
+      <File FileName="Assets/scripts/NetworkManagerScr.js" Line="54" Column="1" />
+      <File FileName="Assets/Standard Assets/Character Controllers/Sources/Scripts/FPSInputController.js" Line="42" Column="1" />
+      <File FileName="Assets/Standard Assets/Character Controllers/Sources/Scripts/CharacterMotor.js" Line="487" Column="28" />
+      <File FileName="Assets/Standard Assets/Character Controllers/Sources/Scripts/MouseLook.cs" Line="35" Column="24" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
