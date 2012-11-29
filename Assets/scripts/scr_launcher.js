@@ -3,7 +3,6 @@
 var bullet : GameObject;
 
 function Start () {
-
 }
 
 function Update () {
